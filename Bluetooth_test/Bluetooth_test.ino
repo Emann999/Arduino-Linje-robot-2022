@@ -32,3 +32,4 @@ if  (Serial.available()) {
 //Serial.print (1);
 //delay(500);
 }
+//kosen ska me forandra på detta uten at et blir et problem
